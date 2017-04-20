@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Wow such blog post",
+    "posted_date": "4/20/2017",
+    "content": "posts/wow-such-blog-post.html",
+    "slug": "wow-such-blog-post"
+  },
+  {
+    "title": "Much content many word",
+    "posted_date": "4/20/2017",
+    "content": "posts/much-content-many-word.html",
+    "slug": "much-content-many-word"
+  },
+  {
+    "title": "Very blog post",
+    "posted_date": "4/20/2017",
+    "content": "posts/very-blog-post.html",
+    "slug": "very-blog-post"
+  }
+]
